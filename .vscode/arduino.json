@@ -1,0 +1,6 @@
+{
+    "port": "COM3",
+    "board": "arduino:mbed_rp2040:pico",
+    "programmer": "arduino:cmsis-dap",
+    "sketch": "DAY_2_Flash.ino"
+}
